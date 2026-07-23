@@ -1,0 +1,5 @@
+streamlit
+pvlib
+pandas
+plotly
+requests
